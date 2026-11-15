@@ -1,32 +1,27 @@
-Morning Brief · Dinero y economía personal · 14 NOVIEMBRE 2026
+Morning Brief · Dinero y economía personal · 15 NOVIEMBRE 2026
 
-1. Es probable que la Fed necesite subir las tasas ante el empeoramiento de la inflación: Daly
-   «Tenemos que avanzar más», dice Huw Pill tras el aumento al 4% este mes mientras el Banco busca combatir la creciente inflación. Es probable que el Banco de Inglaterra necesite subir las tasas de interés el próximo mes y de nuevo a…
-   [Confirmado] Fuentes: Reuters, Financial Times, Bloomberg
-   https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist
+1. El máximo anotador en el examen de impuestos de Corea del Sur confiesa haber hecho trampa con IA
+   Han Won-seok, de 34 años, confesó haber usado una cámara oculta e IA para obtener una calificación casi perfecta en la importante prueba.
+   [Probable] Fuentes: Reuters, BBC News, Bloomberg
+   https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss
 
-2. Mortgage Rates Remain High as Affordability Challenges Persist
-   The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.
-   [Probable] Fuentes: The New York Times, The Guardian, The Hill
-   https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html
+2. Quieren ser médicos. Los límites a los préstamos estudiantiles están complicando sus sueños.
+   Este año, la primera clase de estudiantes de medicina comenzará su camino para convertirse en médicos bajo nuevas reglas que limitan cuánto pueden pedir prestado para la escuela.
+   [En desarrollo] Fuentes: The New York Times, CNN
+   https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html
 
-3. EXCLUSIVA: Ex-CEO de Nvidia engañó a abogado principal sobre aventura con empresaria china, dicen fuentes
-   La destitución de Jensen Huang del fabricante de chips que ayudó a fundar está resonando en todo Silicon Valley, Washington y más allá.
-   [Probable] Fuentes: Reuters, The New York Times, Bloomberg
-   https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html
+3. Las monarquías de Oriente Medio se preparan para el escrutinio de la corrupción de Trump tras la ola azul
+   Los gobiernos del Golfo Pérsico temen las consecuencias mientras los demócratas se preparan para investigar a la familia Trump y seguir el rastro del dinero, dicen los funcionarios.
+   [En desarrollo] Fuentes: The Washington Post, CNBC
+   https://www.washingtonpost.com/world/2026/11/14/middle-east-monarchies-brace-trump-corruption-scrutiny/
 
-4. China y EE. UU. discuten aranceles y comercio agrícola antes de la reunión entre Xi y Trump
-   Pekín ha instado repetidamente a Washington a implementar el acuerdo de reducción de aranceles de 60.000 millones de dólares, calificándolo como un requisito previo para aumentar las compras de productos agrícolas estadounidenses.
-   [Probable] Fuentes: Reuters, Bloomberg, CNBC
-   https://www.cnbc.com/2026/11/14/china-us-tariffs-xi-trump-meeting.html
+4. El «caviar rojo» desaparece de los menús de sushi de Japón a medida que los precios de las huevas se disparan
+   La derrota de Brasil en Singapur se vio empañada por un final indisciplinado en el amistoso. Argentina fue derrotada 2-1 por Uruguay en Buenos Aires. Raphinha fue expulsado mientras Brasil caía derrotado 3-2 ante Japón en su partido…
+   [En desarrollo] Fuentes: Financial Times, The Guardian
+   https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark
 
-5. US producer prices rise moderately in October, but inflation broadens out
-   [En desarrollo] Fuentes: Reuters, Bloomberg
-
-6. Sheinbaum de México dice que la caravana migrante no se dirige a EE. UU. ahora mientras Trump amenaza con aranceles
-   Una caravana migrante de más de mil personas se dirige hacia la frontera de EE. UU. desde el sur de México.
-   [En desarrollo] Fuentes: Reuters, Al Jazeera
-   https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss
+5. Decenas de miles marchan en ciudades portuguesas contra el aumento de los precios de la vivienda
+   [En desarrollo] Fuentes: Associated Press, Reuters
 
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
 Edición completa: https://valentincatena0-droid.github.io/morning-brief-ai/#/niche/finanzas

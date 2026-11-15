@@ -1,35 +1,30 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 14 NOVIEMBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 15 NOVIEMBRE 2026
 
-## Es probable que la Fed necesite subir las tasas ante el empeoramiento de la inflación: Daly
-«Tenemos que avanzar más», dice Huw Pill tras el aumento al 4% este mes mientras el Banco busca combatir la creciente inflación. Es probable que el Banco de Inglaterra necesite subir las tasas de interés el próximo mes y de nuevo a…
+## El máximo anotador en el examen de impuestos de Corea del Sur confiesa haber hecho trampa con IA
+Han Won-seok, de 34 años, confesó haber usado una cámara oculta e IA para obtener una calificación casi perfecta en la importante prueba.
 
-**Confirmado** · Fuentes: Reuters, Financial Times, Bloomberg · [Leer la fuente](https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist)
+**Probable** · Fuentes: Reuters, BBC News, Bloomberg · [Leer la fuente](https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss)
 
-## Mortgage Rates Remain High as Affordability Challenges Persist
-The average 30-year, fixed-rate home loan fell slightly, to 7.11 percent, pushing buyers and sellers to the sidelines until conditions improve.
+## Quieren ser médicos. Los límites a los préstamos estudiantiles están complicando sus sueños.
+Este año, la primera clase de estudiantes de medicina comenzará su camino para convertirse en médicos bajo nuevas reglas que limitan cuánto pueden pedir prestado para la escuela.
 
-**Probable** · Fuentes: The New York Times, The Guardian, The Hill · [Leer la fuente](https://www.nytimes.com/2026/11/12/business/mortgage-rates-home-sales-housing-market.html)
+**En desarrollo** · Fuentes: The New York Times, CNN · [Leer la fuente](https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html)
 
-## EXCLUSIVA: Ex-CEO de Nvidia engañó a abogado principal sobre aventura con empresaria china, dicen fuentes
-La destitución de Jensen Huang del fabricante de chips que ayudó a fundar está resonando en todo Silicon Valley, Washington y más allá.
+## Las monarquías de Oriente Medio se preparan para el escrutinio de la corrupción de Trump tras la ola azul
+Los gobiernos del Golfo Pérsico temen las consecuencias mientras los demócratas se preparan para investigar a la familia Trump y seguir el rastro del dinero, dicen los funcionarios.
 
-**Probable** · Fuentes: Reuters, The New York Times, Bloomberg · [Leer la fuente](https://www.nytimes.com/2026/11/13/business/dealbook/huang-nvidia-ouster-repercussions.html)
+**En desarrollo** · Fuentes: The Washington Post, CNBC · [Leer la fuente](https://www.washingtonpost.com/world/2026/11/14/middle-east-monarchies-brace-trump-corruption-scrutiny/)
 
-## China y EE. UU. discuten aranceles y comercio agrícola antes de la reunión entre Xi y Trump
-Pekín ha instado repetidamente a Washington a implementar el acuerdo de reducción de aranceles de 60.000 millones de dólares, calificándolo como un requisito previo para aumentar las compras de productos agrícolas estadounidenses.
+## El «caviar rojo» desaparece de los menús de sushi de Japón a medida que los precios de las huevas se disparan
+La derrota de Brasil en Singapur se vio empañada por un final indisciplinado en el amistoso. Argentina fue derrotada 2-1 por Uruguay en Buenos Aires. Raphinha fue expulsado mientras Brasil caía derrotado 3-2 ante Japón en su partido…
 
-**Probable** · Fuentes: Reuters, Bloomberg, CNBC · [Leer la fuente](https://www.cnbc.com/2026/11/14/china-us-tariffs-xi-trump-meeting.html)
+**En desarrollo** · Fuentes: Financial Times, The Guardian · [Leer la fuente](https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark)
 
-## US producer prices rise moderately in October, but inflation broadens out
+## Decenas de miles marchan en ciudades portuguesas contra el aumento de los precios de la vivienda
 
 
-**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5)
-
-## Sheinbaum de México dice que la caravana migrante no se dirige a EE. UU. ahora mientras Trump amenaza con aranceles
-Una caravana migrante de más de mil personas se dirige hacia la frontera de EE. UU. desde el sur de México.
-
-**En desarrollo** · Fuentes: Reuters, Al Jazeera · [Leer la fuente](https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss)
+**En desarrollo** · Fuentes: Associated Press, Reuters · [Leer la fuente](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUS1FaVplM2tzTFN1dlhQeEZJeV9TenlabFM3b3RQdFMtaXhPbTJGdnZTdmlQNDRvOWlmTHh5WWFQbWRaZFFsYTNjSTRNczRIQUp1VmtQSzVYR1F2TTJpLVpsTlMwUHdscEpJNFVGQmdsUTZWQ1Bua1FWNWJMODc3MXhlNGFPWFozYWlSWg?oc=5)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
