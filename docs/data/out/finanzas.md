@@ -1,30 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 15 NOVIEMBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 20 NOVIEMBRE 2026
 
-## El máximo anotador en el examen de impuestos de Corea del Sur confiesa haber hecho trampa con IA
-Han Won-seok, de 34 años, confesó haber usado una cámara oculta e IA para obtener una calificación casi perfecta en la importante prueba.
+## Las acciones de Hong Kong caen un 20% desde el máximo de 2026 a medida que se extiende la venta masiva de IA
+APODScienceAPODAPOD: 2026 November...Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is…
 
-**Probable** · Fuentes: Reuters, BBC News, Bloomberg · [Leer la fuente](https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: NASA, Bloomberg, CBS News · [Leer la fuente](https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/)
 
-## Quieren ser médicos. Los límites a los préstamos estudiantiles están complicando sus sueños.
-Este año, la primera clase de estudiantes de medicina comenzará su camino para convertirse en médicos bajo nuevas reglas que limitan cuánto pueden pedir prestado para la escuela.
+## Pete Rose indultado póstumamente por Trump después de que el líder de hits de la carrera de béisbol fuera readmitido por la MLB
+Rose, quien murió en 2024, recibió una prohibición de por vida del deporte por apostar en juegos, pero fue readmitido el año pasado.
 
-**En desarrollo** · Fuentes: The New York Times, CNN · [Leer la fuente](https://www.nytimes.com/2026/11/15/business/medical-school-student-loan-caps.html)
+**Confirmado** · Fuentes: Associated Press, BBC News, The Guardian · [Leer la fuente](https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss)
 
-## Las monarquías de Oriente Medio se preparan para el escrutinio de la corrupción de Trump tras la ola azul
-Los gobiernos del Golfo Pérsico temen las consecuencias mientras los demócratas se preparan para investigar a la familia Trump y seguir el rastro del dinero, dicen los funcionarios.
+## Expropietario de ardilla famosa en internet acusado de fraude hipotecario
+La Securities and Exchange Commission anunció hoy que ha obtenido una orden de restricción temporal, congelación de activos, descubrimiento acelerado y otras medidas contra Backward Hat Capital, con sede en Indianapolis, sus cofundadores…
 
-**En desarrollo** · Fuentes: The Washington Post, CNBC · [Leer la fuente](https://www.washingtonpost.com/world/2026/11/14/middle-east-monarchies-brace-trump-corruption-scrutiny/)
+**Confirmado** · Fuentes: U.S. SEC, Associated Press · [Leer la fuente](https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering)
 
-## El «caviar rojo» desaparece de los menús de sushi de Japón a medida que los precios de las huevas se disparan
-La derrota de Brasil en Singapur se vio empañada por un final indisciplinado en el amistoso. Argentina fue derrotada 2-1 por Uruguay en Buenos Aires. Raphinha fue expulsado mientras Brasil caía derrotado 3-2 ante Japón en su partido…
+## Lula de Brasil toma medidas para proteger el lugar de nacimiento del cacique Raoni en la selva amazónica
+Un grupo de 20 personas salió del bosque y pidió comida, dijo un grupo de derechos de los pueblos indígenas, lo que generó temores de que la degradación ambiental no les hubiera dejado otra opción que buscar ayuda.
 
-**En desarrollo** · Fuentes: Financial Times, The Guardian · [Leer la fuente](https://www.theguardian.com/football/2026/nov/14/brazil-argentina-japan-uruguay-wales-norway-portugal-denmark)
+**Confirmado** · Fuentes: Associated Press, Financial Times, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html)
 
-## Decenas de miles marchan en ciudades portuguesas contra el aumento de los precios de la vivienda
+## La Junta de la Reserva Federal publica los resultados de una encuesta a altos funcionarios financieros de bancos sobre sus estrategias y prácticas para gestionar los saldos de reserva
 
 
-**En desarrollo** · Fuentes: Associated Press, Reuters · [Leer la fuente](https://news.google.com/rss/articles/CBMijAFBVV95cUxNUS1FaVplM2tzTFN1dlhQeEZJeV9TenlabFM3b3RQdFMtaXhPbTJGdnZTdmlQNDRvOWlmTHh5WWFQbWRaZFFsYTNjSTRNczRIQUp1VmtQSzVYR1F2TTJpLVpsTlMwUHdscEpJNFVGQmdsUTZWQ1Bua1FWNWJMODc3MXhlNGFPWFozYWlSWg?oc=5)
+**Probable** · Fuentes: Federal Reserve · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm)
+
+## Trabajadores y estudiantes protestan en toda Europa mientras una huelga en Italia interrumpe los servicios
+Las protestas lideradas por estudiantes se han extendido por toda Europa en respuesta al aumento del costo de vida, la escasez de vivienda y la falta de fondos en la educación.
+
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
