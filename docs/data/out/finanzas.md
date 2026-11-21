@@ -1,25 +1,15 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 20 NOVIEMBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 21 NOVIEMBRE 2026
 
-## Las acciones de Hong Kong caen un 20% desde el máximo de 2026 a medida que se extiende la venta masiva de IA
-APODScienceAPODAPOD: 2026 November...Today’s APODArchiveSubmissionsIndexSearchCalendarRSSEducationAboutDiscuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is…
+## Trump seeks to penalize US companies that build AI data centers abroad, even as they face backlash
+The president suggested he would tax the same companies, though it was not clear how he would carry out the plan unveiled at a news conference.
 
-**Confirmado** · Fuentes: NASA, Bloomberg, CBS News · [Leer la fuente](https://science.nasa.gov/image-article/apod-2026-november-20-v-g-r/)
+**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/11/20/us/politics/trump-data-centers-ban.html)
 
-## Pete Rose indultado póstumamente por Trump después de que el líder de hits de la carrera de béisbol fuera readmitido por la MLB
-Rose, quien murió en 2024, recibió una prohibición de por vida del deporte por apostar en juegos, pero fue readmitido el año pasado.
+## La Reserva Federal anuncia los ganadores del College Fed Challenge
 
-**Confirmado** · Fuentes: Associated Press, BBC News, The Guardian · [Leer la fuente](https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss)
 
-## Expropietario de ardilla famosa en internet acusado de fraude hipotecario
-La Securities and Exchange Commission anunció hoy que ha obtenido una orden de restricción temporal, congelación de activos, descubrimiento acelerado y otras medidas contra Backward Hat Capital, con sede en Indianapolis, sus cofundadores…
-
-**Confirmado** · Fuentes: U.S. SEC, Associated Press · [Leer la fuente](https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering)
-
-## Lula de Brasil toma medidas para proteger el lugar de nacimiento del cacique Raoni en la selva amazónica
-Un grupo de 20 personas salió del bosque y pidió comida, dijo un grupo de derechos de los pueblos indígenas, lo que generó temores de que la degradación ambiental no les hubiera dejado otra opción que buscar ayuda.
-
-**Confirmado** · Fuentes: Associated Press, Financial Times, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/11/18/world/americas/brazil-amazon-indigenous-contact.html)
+**Probable** · Fuentes: Federal Reserve · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm)
 
 ## La Junta de la Reserva Federal publica los resultados de una encuesta a altos funcionarios financieros de bancos sobre sus estrategias y prácticas para gestionar los saldos de reserva
 
@@ -27,9 +17,19 @@ Un grupo de 20 personas salió del bosque y pidió comida, dijo un grupo de dere
 **Probable** · Fuentes: Federal Reserve · [Leer la fuente](https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm)
 
 ## Trabajadores y estudiantes protestan en toda Europa mientras una huelga en Italia interrumpe los servicios
-Las protestas lideradas por estudiantes se han extendido por toda Europa en respuesta al aumento del costo de vida, la escasez de vivienda y la falta de fondos en la educación.
+Trabajadores y estudiantes protestan en toda Europa este viernes mientras una huelga nacional interrumpió los servicios de transporte y escolares en Italia y los manifestantes se reunieron en varios países para presionar con demandas…
 
-**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss)
+**Probable** · Fuentes: Associated Press, Reuters, Bloomberg · [Leer la fuente](https://abcnews.com/International/wireStory/italy-strike-draws-workers-students-nationwide-protests-wages-138314660)
+
+## La SEC acusa a Backward Hat Capital, con sede en Indianápolis, y a sus cofundadores de un fraude de oferta de 560 millones de dólares y obtiene medidas de emergencia
+La Comisión de Bolsa y Valores anunció hoy que ha obtenido una orden de restricción temporal, congelación de activos, descubrimiento acelerado y otras medidas contra Backward Hat Capital, con sede en Indianápolis, sus cofundadores Phillip…
+
+**Probable** · Fuentes: U.S. SEC · [Leer la fuente](https://www.sec.gov/newsroom/press-releases/2026-116-sec-charges-indianapolis-based-backward-hat-capital-its-co-founders-560-million-dollar-offering)
+
+## Fed's Cook says rate hikes needed to lower high inflation
+
+
+**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
