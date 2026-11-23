@@ -1,5 +1,20 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 22 NOVIEMBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 23 NOVIEMBRE 2026
+
+## La policía investiga si Jaylen Harrell de los Titans agredió a un conductor antes de un accidente en Florida
+Los vehículos todo terreno (ATV) retirados del mercado violan la norma de seguridad obligatoria para ATV porque el módulo de ajuste de velocidad incluido con el vehículo permite que la velocidad del ATV se ajuste por encima de la…
+
+**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, Associated Press, The Guardian · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/U-S-Titan-Recalls-X-Pro-Youth-All-Terrain-Vehicles-ATVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard-Violate-Mandatory-Standard-for-ATVs)
+
+## Magnitude 6.5 earthquake strikes Vanuatu region
+USGS recorded a magnitude 6.5 earthquake, Vanuatu region. A tsunami warning was associated with this event.
+
+**Probable** · Fuentes: USGS (earthquakes) · [Leer la fuente](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm)
+
+## Público evacuado del concierto de Don Toliver tras la liberación de una sustancia desconocida entre la multitud
+MANCHESTER, Inglaterra — Miles de personas que asistían al concierto del rapero estadounidense Don Toliver fueron evacuadas de un importante estadio británico el domingo por la noche, informó la policía, después de que una “sustancia…
+
+**Confirmado** · Fuentes: Associated Press, Reuters, NBC News · [Leer la fuente](https://www.nbcnews.com/world/united-kingdom/don-toliver-concert-evacuated-coop-live-unknown-substance-released-rcna610820)
 
 ## Whatever Works retira parrillas de microondas debido al riesgo de lesiones graves o muerte por peligro de incendio
 Los consumidores deben dejar de usar las parrillas retiradas inmediatamente y contactar a Whatever Works para obtener un reembolso completo. Se les pedirá a los consumidores que escriban con marcador permanente “Recalled” en la parrilla y…
@@ -11,25 +26,10 @@ The recalled bed rails violate the mandatory standard for adult portable bed rai
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Xentrawave-Recalls-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-One-Death-Reported)
 
-## Arlopu retira juegos de toboganes debido al riesgo de lesiones graves y muerte por peligros de atrapamiento de cabeza y cuello
-Los productos retirados contienen múltiples aberturas por las que puede pasar el torso de un niño, pero no su cabeza, lo que supone un riesgo de lesiones graves y muerte debido a peligros de atrapamiento de cabeza y cuello. Además, las…
+## CHE-US retira del mercado juguetes de robots magnéticos debido al riesgo de lesiones graves o muerte por ingestión de imanes; violan la norma obligatoria para juguetes
+Las figuras magnéticas retiradas del mercado violan la norma obligatoria para juguetes porque, al separarse, los brazos y las piernas de las figuras liberan imanes de alta potencia que representan un peligro de ingestión para los niños.…
 
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Arlopu-Recalls-Slide-Playsets-Due-to-Risk-of-Serious-Injury-and-Death-from-Head-and-Neck-Entrapment-Hazards)
-
-## Lavadoras a presión QIOMALA retiradas del mercado debido a un riesgo grave de lesiones o muerte por peligros de descarga y electrocución
-Las lavadoras a presión retiradas del mercado carecen de un cable de alimentación de longitud adecuada, lo que puede fomentar el uso de un cable de extensión, lo que representa un riesgo grave de lesiones o muerte por peligros de descarga…
-
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/QIOMALA-Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards)
-
-## El jefe del cártel mexicano 'El Chapo Isidro' pasó de ser un traficante de poca monta a capo de la droga antes de su detención
-Fausto Isidro "Chapo Idisro" Meza Flores, quien es acusado de narcotráfico y tortura, es detenido tras un tiroteo con las autoridades.
-
-**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss)
-
-## Se esperan tormentas en ambas costas que amenazan los viajes de Acción de Gracias
-La alcaldesa de San Francisco está pidiendo a las personas en la ciudad que no viajen a menos que sea "absolutamente esencial". Mientras tanto, una tormenta que se desplaza por la costa este también podría causar retrasos en los viajes…
-
-**Probable** · Fuentes: NPR, NBC News · [Leer la fuente](https://www.npr.org/2026/11/21/nx-s1-6047508/weather-thanksgiving-storm-elnino)
+**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/CHE-US-Recalls-Magnetic-Robot-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
