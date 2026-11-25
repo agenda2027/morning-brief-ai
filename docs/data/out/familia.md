@@ -1,35 +1,35 @@
 # Salud y seguridad de la familia
-*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 23 NOVIEMBRE 2026
+*Retiros de productos, alertas de salud, seguridad alimentaria y desastres* — 25 NOVIEMBRE 2026
 
-## La policía investiga si Jaylen Harrell de los Titans agredió a un conductor antes de un accidente en Florida
-Los vehículos todo terreno (ATV) retirados del mercado violan la norma de seguridad obligatoria para ATV porque el módulo de ajuste de velocidad incluido con el vehículo permite que la velocidad del ATV se ajuste por encima de la…
+## King tides could break decades-old records and flood communities on both coasts on Thanksgiving week
+Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.
 
-**Confirmado** · Fuentes: U.S. Consumer Product Safety Commission, Associated Press, The Guardian · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/U-S-Titan-Recalls-X-Pro-Youth-All-Terrain-Vehicles-ATVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard-Violate-Mandatory-Standard-for-ATVs)
+**Confirmado** · Fuentes: Associated Press, BBC News, The New York Times · [Leer la fuente](https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss)
 
-## Magnitude 6.5 earthquake strikes Vanuatu region
-USGS recorded a magnitude 6.5 earthquake, Vanuatu region. A tsunami warning was associated with this event.
+## Dow craters 1,000 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates
+USGS recorded a magnitude 4.2 earthquake, 10 km WSW of Point MacKenzie, Alaska.
 
-**Probable** · Fuentes: USGS (earthquakes) · [Leer la fuente](https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucvm)
+**Confirmado** · Fuentes: USGS (earthquakes), CNBC · [Leer la fuente](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhgksb)
 
-## Público evacuado del concierto de Don Toliver tras la liberación de una sustancia desconocida entre la multitud
-MANCHESTER, Inglaterra — Miles de personas que asistían al concierto del rapero estadounidense Don Toliver fueron evacuadas de un importante estadio británico el domingo por la noche, informó la policía, después de que una “sustancia…
+## Will wind ground your favorite balloon in the Macy’s Thanksgiving Parade?
+Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, NBC News · [Leer la fuente](https://www.nbcnews.com/world/united-kingdom/don-toliver-concert-evacuated-coop-live-unknown-substance-released-rcna610820)
+**Confirmado** · Fuentes: Associated Press, Reuters, BBC News · [Leer la fuente](https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss)
 
-## Whatever Works retira parrillas de microondas debido al riesgo de lesiones graves o muerte por peligro de incendio
-Los consumidores deben dejar de usar las parrillas retiradas inmediatamente y contactar a Whatever Works para obtener un reembolso completo. Se les pedirá a los consumidores que escriban con marcador permanente “Recalled” en la parrilla y…
+## World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed
+More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurity continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Tuesday.
+
+**Probable** · Fuentes: UN News · [Leer la fuente](https://news.un.org/feed/view/en/story/2026/11/1168871)
+
+## Trump gives the Medal of Freedom to Giuliani, a fierce political ally who led New York through 9/11
+The award honored a Trump ally who was once known as “America’s mayor” but whose reputation was tarnished by his efforts to overturn the 2020 election on behalf of the president.
+
+**Confirmado** · Fuentes: Associated Press, Reuters, The New York Times · [Leer la fuente](https://www.nytimes.com/2026/11/24/us/politics/trump-rudy-giuliani-presidential-medal-of-freedom.html)
+
+## Whatever Works Recalls Microwave Grills Due to Risk of Serious Injury or Death from Fire Hazard
+Consumers should stop using the recalled grills immediately and contact Whatever Works for a full refund. Consumers will be asked to write in permanent marker “Recalled” on the grill and send a photo of the marked grill to…
 
 **Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Whatever-Works-Recalls-Microwave-Grills-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard)
-
-## Xentrawave Recalls Adult Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails; One Death Reported
-The recalled bed rails violate the mandatory standard for adult portable bed rails because users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of…
-
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/Xentrawave-Recalls-Adult-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-One-Death-Reported)
-
-## CHE-US retira del mercado juguetes de robots magnéticos debido al riesgo de lesiones graves o muerte por ingestión de imanes; violan la norma obligatoria para juguetes
-Las figuras magnéticas retiradas del mercado violan la norma obligatoria para juguetes porque, al separarse, los brazos y las piernas de las figuras liberan imanes de alta potencia que representan un peligro de ingestión para los niños.…
-
-**Probable** · Fuentes: U.S. Consumer Product Safety Commission · [Leer la fuente](https://www.cpsc.gov/Recalls/2027/CHE-US-Recalls-Magnetic-Robot-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.

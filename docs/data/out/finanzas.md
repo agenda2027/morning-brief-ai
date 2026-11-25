@@ -1,30 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 23 NOVIEMBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 25 NOVIEMBRE 2026
 
-## El gas europeo se dispara mientras una ola de frío amenaza las escasas reservas
-El aumento del precio sigue a la ralentización de los suministros de Qatar y al agotamiento de las reservas de verano debido a las olas de calor. Business live – últimas actualizaciones. Los precios del gas europeo se dispararon el lunes,…
+## Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, US jury finds
+The verdict follows a months-long trial in New York.
 
-**En desarrollo** · Fuentes: Bloomberg, The Guardian · [Leer la fuente](https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears)
+**Confirmado** · Fuentes: Associated Press, BBC News, Bloomberg · [Leer la fuente](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
 
-## Por qué el demócrata Abdul El-Sayed habla bien del 'TrumpCare'
-La propuesta del senador electo Abdul El-Sayed de trabajar juntos para promulgar una atención médica universal ilustra cómo algunos demócratas recién elegidos se están acercando al presidente.
+## US consumer confidence soars with elections in the rearview mirror and gas prices in retreat
+Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting Consumer prices rose an annualized 3.8% in October, according to new inflation data released on Wednesday, the highest since…
 
-**Probable** · Fuentes: The New York Times, The Guardian, The Hill · [Leer la fuente](https://www.nytimes.com/2026/11/22/us/politics/el-sayed-trump-health-care.html)
+**Confirmado** · Fuentes: Associated Press, Reuters, Bloomberg · [Leer la fuente](https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation)
 
-## La inflación, el crecimiento económico y el estado de ánimo de los consumidores estadounidenses en el punto de mira esta semana
+## Britons face soaring energy bills after 26% price cap hike
+A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.
 
+**Probable** · Fuentes: Reuters, BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss)
 
-**En desarrollo** · Fuentes: Associated Press, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMingFBVV95cUxPelR4N1Vnc2xfWmprOTJBTXZybTBicVNnaFcyUTFuNFhvYlpHUDR4WEx4Q0hhU1NscGtfakx6RE5qNi1MQkFSQ3ozalYwTDl4OV9NM2V1OEFhWTM5QzZrRWJIdDVvYVFfd00yZVVoa0g1M0N1Ylo4OWI4OHpzb2JWOWRZUEczWWNvOExxVndWUUJsd2ptZm9tYlhfZUZfZw?oc=5)
+## Australian Inflation Accelerates, Even After RBA Rate Hikes
+The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.
 
-## Desfile del Día de San Patricio cancelado mientras Florida analiza la ley de D.E.I.
-Ciudades y condados están retirando fondos de grupos y eventos que han apoyado durante mucho tiempo antes de que una nueva ley les prohíba promover actividades de diversidad, equidad e inclusión.
+**Probable** · Fuentes: Bloomberg, CNBC, The Hill · [Leer la fuente](https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html)
 
-**Probable** · Fuentes: The New York Times, NBC News · [Leer la fuente](https://www.nytimes.com/2026/11/22/us/florida-anti-dei-law-consequences.html)
+## Russia backs tax rises as 2027 budget sees military spending soar
+Russia’s lower house of parliament has approved a 2027-2029 state budget and passed tax increases to fund the war in Ukraine
 
-## El banco central de Indonesia dice que las conversaciones de MSCI con Prabowo apoyan a la rupia
+**Probable** · Fuentes: Associated Press, Bloomberg, ABC News · [Leer la fuente](https://abcnews.com/International/wireStory/russia-backs-tax-rises-2027-budget-sees-military-138414749)
 
+## Russia's own figures show it has lost nearly 500,000 people in Ukraine war
+Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.
 
-**En desarrollo** · Fuentes: Reuters, Bloomberg · [Leer la fuente](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTV0cGJnSHE5ZkxDSVhUQ1Z1S09hLUp4SmxHZ1YzWEZ5TjBxTHlNQ1NSc3JtcDZ5MzlUUzNZYTFIdmZCVXFheGM1cTg4djBhb01kLVlOUVZUekFSLWgxMjIzSnMzZ1pORjZDUDhXZFM4U2JmLXJkblY3QWdIN1QxallRdEduVlo5QUQzcExQVlNPaDNzVmhGTlJLNVRaYU9nUHN5aUJWUlFoRUhqSHotSEpTdGZZVER4OXFn?oc=5)
+**Probable** · Fuentes: BBC News, CNBC · [Leer la fuente](https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
