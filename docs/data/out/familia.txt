@@ -1,34 +1,34 @@
-Morning Brief · Salud y seguridad de la familia · 25 NOVIEMBRE 2026
+Morning Brief · Salud y seguridad de la familia · 26 NOVIEMBRE 2026
 
-1. King tides could break decades-old records and flood communities on both coasts on Thanksgiving week
-   Two storms, including a major Nor'easter on the east coast, are expected to impact millions of people celebrating the holiday with family and friends.
-   [Confirmado] Fuentes: Associated Press, BBC News, The New York Times
-   https://www.bbc.co.uk/weather/articles/c5742nplemnno?at_medium=RSS&at_campaign=rss
-
-2. Dow craters 1,000 points, Nasdaq loses 4% as Nvidia leads resumption of AI sell-off: Live updates
-   USGS recorded a magnitude 4.2 earthquake, 10 km WSW of Point MacKenzie, Alaska.
-   [Confirmado] Fuentes: USGS (earthquakes), CNBC
-   https://earthquake.usgs.gov/earthquakes/eventpage/aka2026xhgksb
-
-3. Will wind ground your favorite balloon in the Macy’s Thanksgiving Parade?
-   Strong winds and heavy rain are expected to impact celebrations across the USA, with the risk that the famous Macy's Thanksgiving Day parade could be impacted.
+1. Fuertes lluvias, viento e inundaciones azotan gran parte de EE. UU. en el día de Acción de Gracias
+   Las autoridades indonesias dicen que otras 13 personas están desaparecidas en la mina de oro ilegal, que se inundó el lunes.
    [Confirmado] Fuentes: Associated Press, Reuters, BBC News
-   https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss
+   https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss
 
-4. World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed
-   More than 364,000 people have been displaced in Yemen since the beginning of August as fighting and insecurity continue, the UN Office for the Coordination of Humanitarian Affairs (OCHA) said on Tuesday.
-   [Probable] Fuentes: UN News
-   https://news.un.org/feed/view/en/story/2026/11/1168871
+2. California advierte sobre inundaciones mientras las mareas King Tides alcanzan su punto máximo durante el Día de Acción de Gracias
+   Partes de la provincia canadiense de British Columbia también podrían verse afectadas por las tormentas y las inundaciones, que ocurren mientras millones de personas viajan por el día festivo.
+   [Confirmado] Fuentes: Associated Press, BBC News, The New York Times
+   https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss
 
-5. Trump gives the Medal of Freedom to Giuliani, a fierce political ally who led New York through 9/11
-   The award honored a Trump ally who was once known as “America’s mayor” but whose reputation was tarnished by his efforts to overturn the 2020 election on behalf of the president.
-   [Confirmado] Fuentes: Associated Press, Reuters, The New York Times
-   https://www.nytimes.com/2026/11/24/us/politics/trump-rudy-giuliani-presidential-medal-of-freedom.html
+3. El brote de ébola en el Congo alcanza los 12,000 casos mientras la violencia obliga a algunos equipos de respuesta a evacuar
+   A medida que el brote de rápida propagación continúa extendiéndose en el este del Congo, los combates entre rebeldes y el ejército están interrumpiendo los esfuerzos para contener la propagación de la enfermedad.
+   [Probable] Fuentes: Associated Press, Reuters, NPR
+   https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders
 
-6. Whatever Works Recalls Microwave Grills Due to Risk of Serious Injury or Death from Fire Hazard
-   Consumers should stop using the recalled grills immediately and contact Whatever Works for a full refund. Consumers will be asked to write in permanent marker “Recalled” on the grill and send a photo of the marked grill to…
+4. Whatever Works retira parrillas de microondas debido al riesgo de lesiones graves o muerte por peligro de incendio
+   Los consumidores deben dejar de usar las parrillas retiradas inmediatamente y contactar a Whatever Works para obtener un reembolso completo. Se les pedirá a los consumidores que escriban con marcador permanente “Recalled” en la parrilla y…
    [Probable] Fuentes: U.S. Consumer Product Safety Commission
    https://www.cpsc.gov/Recalls/2027/Whatever-Works-Recalls-Microwave-Grills-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard
+
+5. El desfile anual de Acción de Gracias de Nueva York, amenazado por una tormenta que se aproxima
+   Se esperan fuertes vientos y lluvias intensas que afectarán las celebraciones en todo EE. UU., con el riesgo de que el famoso desfile de Macy's Thanksgiving Day pueda verse afectado.
+   [Probable] Fuentes: BBC News, The Washington Post, ABC News
+   https://www.bbc.co.uk/weather/articles/cr894e8dd7wqo?at_medium=RSS&at_campaign=rss
+
+6. Zenara retira del mercado los detectores de monóxido de carbono (CO) y gas natural 4 en 1 Steadfast Haven debido al riesgo de lesiones graves o muerte por no alertar a los consumidores sobre niveles peligrosos de gas y CO
+   Los detectores pueden fallar al alertar a los consumidores sobre la presencia de niveles peligrosos de CO, lo que representa un riesgo de lesiones graves o muerte.
+   [Probable] Fuentes: U.S. Consumer Product Safety Commission
+   https://www.cpsc.gov/Recalls/2027/Zenara-Recalls-4-in-1-Plug-in-Steadfast-Haven-Carbon-Monoxide-CO-and-Natural-Gas-Detectors-Due-to-Risk-of-Serious-Injury-or-Death-from-Failure-to-Alert-Consumers-to-Hazardous-Levels-of-Gas-and-CO
 
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
 Edición completa: https://valentincatena0-droid.github.io/morning-brief-ai/#/niche/familia

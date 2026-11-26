@@ -1,35 +1,35 @@
 # Dinero y economía personal
-*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 25 NOVIEMBRE 2026
+*Tasas, inflación, empleo, crédito, impuestos y fraudes que afectan tu bolsillo* — 26 NOVIEMBRE 2026
 
-## Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, US jury finds
-The verdict follows a months-long trial in New York.
+## La métrica de inflación preferida de la Fed aumentó en octubre a medida que se acerca la última reunión de tipos de 2026
+La inflación aumentó ligeramente en octubre, según mostraron el miércoles nuevos datos de la Bureau of Economic Analysis (BEA), mientras se acerca la última reunión de fijación de tipos de la Federal Reserve en dos semanas. El índice de…
 
-**Confirmado** · Fuentes: Associated Press, BBC News, Bloomberg · [Leer la fuente](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
+**Confirmado** · Fuentes: European Central Bank, The Hill · [Leer la fuente](https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg261126~ccf28c8071.en.html)
 
-## US consumer confidence soars with elections in the rearview mirror and gas prices in retreat
-Rise occurs amid soaring energy prices, according to last inflation reading before a crucial Fed board meeting Consumer prices rose an annualized 3.8% in October, according to new inflation data released on Wednesday, the highest since…
+## La administración Trump presenta nuevos aranceles para China, la UE y más, citando prácticas desleales
+La última escalada se produjo mientras la administración se enfrenta a continuos obstáculos legales y a un nuevo escrutinio por parte de un Congreso entrante liderado por los demócratas.
 
-**Confirmado** · Fuentes: Associated Press, Reuters, Bloomberg · [Leer la fuente](https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation)
+**Probable** · Fuentes: The New York Times, Bloomberg, NBC News · [Leer la fuente](https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html)
 
-## Britons face soaring energy bills after 26% price cap hike
-A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.
+## Las acciones suben mientras los operadores ignoran la última salva de aranceles de EE. UU.
+Los inversores parecieron haber ignorado una nueva serie de aranceles revelada por la Casa Blanca el miércoles, que afecta a más de una docena de importantes socios comerciales.
 
-**Probable** · Fuentes: Reuters, BBC News, Financial Times · [Leer la fuente](https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss)
+**Probable** · Fuentes: Reuters, Financial Times, Bloomberg · [Leer la fuente](https://www.cnbc.com/2026/11/26/stock-markets-today-.html)
 
-## Australian Inflation Accelerates, Even After RBA Rate Hikes
-The personal consumption expenditures price index was expected to show an annual inflation rate of 3.8% in October, according to the Dow Jones consensus.
+## El Banco de Inglaterra reducirá los requisitos de capital para los prestamistas centrados en el Reino Unido
+Se espera un fuerte aumento a medida que aumentan las presiones de los costos, con expertos que consideran el aumento del tope de los precios de la energía y el impacto potencial de El Niño. La inflación de los precios de los alimentos en…
 
-**Probable** · Fuentes: Bloomberg, CNBC, The Hill · [Leer la fuente](https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html)
+**Probable** · Fuentes: Reuters, The Guardian · [Leer la fuente](https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england)
 
-## Russia backs tax rises as 2027 budget sees military spending soar
-Russia’s lower house of parliament has approved a 2027-2029 state budget and passed tax increases to fund the war in Ukraine
+## El banco central de Corea del Sur aumenta la tasa de interés clave para combatir la inflación
+Se espera ampliamente que la Reserva Federal aumente las tasas de interés el próximo mes.
 
-**Probable** · Fuentes: Associated Press, Bloomberg, ABC News · [Leer la fuente](https://abcnews.com/International/wireStory/russia-backs-tax-rises-2027-budget-sees-military-138414749)
+**Confirmado** · Fuentes: Associated Press, Reuters, Financial Times · [Leer la fuente](https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html)
 
-## Russia's own figures show it has lost nearly 500,000 people in Ukraine war
-Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.
+## China y otros socios comerciales de EE. UU. responden a los nuevos planes arancelarios de Trump
+La administración sugiere un impuesto adicional del 20% a las importaciones chinas, lo que elevaría el total a aproximadamente el 40%. Política de EE. UU. en vivo: últimas actualizaciones. Donald Trump propone nuevos aranceles a 14 socios…
 
-**Probable** · Fuentes: BBC News, CNBC · [Leer la fuente](https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss)
+**Probable** · Fuentes: Associated Press, Bloomberg, The Guardian · [Leer la fuente](https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe)
 
 ---
 Información, no asesoría financiera, médica ni legal. Verifica siempre en la fuente original.
